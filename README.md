@@ -1,2 +1,12 @@
-# padka-resources-tmp
-Temp - Ideiglenes repo padka anyagok megosztására
+![](csv/padka001_003_zala_start.png)
+![](csv/padka001.png)
+![](csv/padka002.png)
+![](csv/padka003.png)
+![](csv/padka003_006_zala_kanyar.png)
+![](csv/padka004.png)
+![](csv/padka005.png)
+![](csv/padka006.png)
+![](csv/padka007_009_zala_euro_budi.png)
+![](csv/padka007.png)
+![](csv/padka008.png)
+![](csv/padka009.png)
