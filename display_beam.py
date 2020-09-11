@@ -11,7 +11,7 @@ import time
 import pandas as pd 
 import matplotlib.pyplot as plt
 
-#for i in range(9):
+#for i in range(9,15):
 i = 1
 file_name = ("csv/padka%03d.csv" % (i+1))
 points = np.asarray(pd.read_csv(file_name, sep=",",header=None))
